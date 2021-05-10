@@ -9,3 +9,4 @@ Yuhomyan
 **Parts of the hover box CSS and JS code: **
 Danijel Vincijanovic; https://codepen.io/davinci 
 Joey Lea; https://codepen.io/ovdojoey
+Inspiration: https://hashirshoaeb.com/#aboutme
